@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hola!👋
+## Somos Mopty! Mopty es un bot de discord creado por usuarios y para usuarios!
 <!--
 
 **Here are some ideas to get you started:**
